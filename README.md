@@ -57,7 +57,7 @@ Package: 610 kB
 
 <br>
 <p align="center">
-<img width="49.0%" src="https://github.com/Mr-Cyb3rgh0st/DDos-Tool/blob/main/src/screenshot.png"/> 
+<img width="100%" src="https://github.com/Mr-Cyb3rgh0st/DDos-Tool/blob/main/src/screenshot.png"/> 
 </p>
 
 --------
