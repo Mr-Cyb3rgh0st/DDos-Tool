@@ -2257,7 +2257,7 @@ public class Dos implements Runnable {
         Thread.sleep(2000);
 
 
-        System.out.println("\u001B[34m STARTING ATTACK - Our Telegram : t.me/usnexushacker");
+        System.out.println("\u001B[34m STARTING ATTACK - Our Telegram : @RootOfCyber");
         System.out.println("\n");
         ArrayList<Thread> threads = new ArrayList<Thread>();
         for (int i = 0; i < Dos.amount; i++) {
